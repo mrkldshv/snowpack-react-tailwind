@@ -21,7 +21,7 @@
     "test": "jest"
   },
   "dependencies": {
-    "react": "^16.13.0",
+    "react": "^16.14.0",
     "react-dom": "^16.13.0",
     "tailwindcss": "^1.4.6"
   },
