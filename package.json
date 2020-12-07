@@ -33,6 +33,6 @@
     "postcss": "^7.0.32",
     "postcss-cli": "^7.1.1",
     "prettier": "^2.0.0",
-    "snowpack": "^2.2.0"
+    "snowpack": "^2.18.1"
   }
 }
