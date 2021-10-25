@@ -22,7 +22,7 @@
   },
   "dependencies": {
     "react": "^16.14.0",
-    "react-dom": "^16.13.0",
+    "react-dom": "^16.14.0",
     "tailwindcss": "^1.9.6"
   },
   "devDependencies": {
